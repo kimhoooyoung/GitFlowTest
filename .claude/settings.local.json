@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__UnityMCP__manage_scene",
+      "mcp__UnityMCP__find_gameobjects"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "UnityMCP"
+  ]
+}
